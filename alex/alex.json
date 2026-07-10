@@ -6,7 +6,7 @@
                 "type": "gelir",
                 "category": "bakiye",
                 "title": "bakiye",
-                "amount": 5000
+                "amount": 0
             },
             {
                 "type": "gider",
