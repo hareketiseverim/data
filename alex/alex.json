@@ -6,7 +6,7 @@
                 "type": "gider",
                 "category": "alisveris",
                 "title": "Araç Bagaj Havuzu",
-                "amount": 529
+                "amount": 467.46
             }
         ]
     },
@@ -17,7 +17,7 @@
                 "type": "gelir",
                 "category": "bakiye",
                 "title": "bakiye",
-                "amount": 0
+                "amount": 1000000
             },
             {
                 "type": "gider",
