@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-06-29",
+        "transactions": [
+            {
+                "type": "gider",
+                "category": "alisveris",
+                "title": "Araç Bagaj Havuzu",
+                "amount": 529
+            }
+        ]
+    },
+    {
         "date": "2026-07-01",
         "transactions": [
             {
@@ -11,7 +22,7 @@
             {
                 "type": "gider",
                 "category": "market",
-                "title": "Market",
+                "title": "Sebze Meyve Market Alışverişi",
                 "amount": 2500
             }
         ]
@@ -33,8 +44,14 @@
             {
                 "type": "gider",
                 "category": "alisveris",
-                "title": "2 Bisiklet",
-                "amount": 30000
+                "title": "bisiklet 1",
+                "amount": 16123.87
+            },
+            {
+                "type": "gider",
+                "category": "alisveris",
+                "title": "bisiklet 2",
+                "amount": 16123.87
             }
         ]
     }
