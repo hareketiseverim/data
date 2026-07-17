@@ -201,5 +201,173 @@
                 "amount": 679.80
             }
         ]
-    }
+    },
+    {
+        "date": "2026-07-10",
+        "transactions": [
+            {
+                "type": "gider",
+                "category": "yemek",
+                "title": "leyya gelato",
+                "amount": 875
+            },
+             {
+                "type": "gider",
+                "category": "alisveris",
+                "title": "trendyol",
+                "amount": 649
+            }
+        ]
+    },
+    {
+        "date": "2026-07-11",
+        "transactions": [
+            {
+                "type": "gider",
+                "category": "arac",
+                "title": "clio zorunlu trafik",
+                "amount": 2818.63
+            },
+             {
+                "type": "gider",
+                "category": "arac",
+                "title": "clio sigorta",
+                "amount": 1430.06
+            },
+             {
+                "type": "gider",
+                "category": "alisveris",
+                "title": "trendyol",
+                "amount": 149
+            },
+              {
+                "type": "gider",
+                "category": "alisveris",
+                "title": "trendyol",
+                "amount": 149.70
+            },
+             {
+                "type": "gider",
+                "category": "alisveris",
+                "title": "trendyol",
+                "amount": 218.50
+            }
+        ]
+    },
+    {
+        "date": "2026-07-12",
+        "transactions": [
+            {
+                "type": "gider",
+                "category": "alisveris",
+                "title": "trendyol",
+                "amount": 161.10
+            },
+             {
+                "type": "gider",
+                "category": "yemek",
+                "title": "hamdizade",
+                "amount": 1535
+            },
+              {
+                "type": "gider",
+                "category": "yemek",
+                "title": "trendyol",
+                "amount": 1160.07
+            },
+            {
+                "type": "gider",
+                "category": "alisveris",
+                "title": "google film",
+                "amount": 4.99
+            }
+        ]
+    },
+    {
+        "date": "2026-07-13",
+        "transactions": [
+            {
+                "type": "gider",
+                "category": "arac",
+                "title": "noter",
+                "amount": 1982.90
+            },
+             {
+                "type": "gider",
+                "category": "saglik",
+                "title": "natura",
+                "amount": 1500
+            },
+            {
+                "type": "gider",
+                "category": "alisveris",
+                "title": "tedi",
+                "amount": 153.89
+            },
+             {
+                "type": "gider",
+                "category": "alisveris",
+                "title": "youtube",
+                "amount": 119.99
+            }
+        ]
+    },
+    {
+        "date": "2026-07-14",
+        "transactions": [
+            {
+                "type": "gider",
+                "category": "arac",
+                "title": "skoda zorunlu trafik",
+                "amount": 2583.56
+            }
+        ]
+    },
+    {
+        "date": "2026-07-15",
+        "transactions": [
+            {
+                "type": "gider",
+                "category": "alisveris",
+                "title": "amazon",
+                "amount": 930.68
+            },
+             {
+                "type": "gider",
+                "category": "alisveris",
+                "title": "trendyol",
+                "amount": 525
+            },
+             {
+                "type": "gider",
+                "category": "alisveris",
+                "title": "trendyol",
+                "amount": 279
+            }
+        ]
+    },
+    {
+        "date": "2026-07-16",
+        "transactions": [
+            {
+                "type": "gider",
+                "category": "alisveris",
+                "title": "hepsiburada",
+                "amount": 523.10
+            },
+             {
+                "type": "gider",
+                "category": "alisveris",
+                "title": "amazon",
+                "amount": 499
+            },
+            {
+                "type": "gider",
+                "category": "yemek",
+                "title": "kadayif",
+                "amount": 900
+            }
+        ]
+    },
+    
 ]
