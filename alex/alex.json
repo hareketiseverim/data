@@ -7,23 +7,83 @@
                 "category": "alisveris",
                 "title": "Araç Bagaj Havuzu",
                 "amount": 467.46
+            },
+             {
+                "type": "gider",
+                "category": "alisveris",
+                "title": "trendyol",
+                "amount": 75
+            },
+             {
+                "type": "gider",
+                "category": "alisveris",
+                "title": "hepsiburada",
+                "amount": 554
+            },
+             {
+                "type": "gider",
+                "category": "alisveris",
+                "title": "trendyol",
+                "amount": 597
+            },
+             {
+                "type": "gider",
+                "category": "alisveris",
+                "title": "trendyol",
+                "amount": 509
+            },
+            {
+                "type": "gider",
+                "category": "alisveris",
+                "title": "trendyol",
+                "amount": 260
+            },
+            {
+                "type": "gider",
+                "category": "alisveris",
+                "title": "trendyol",
+                "amount": 967,41
             }
+            
         ]
     },
     {
-        "date": "2026-07-01",
+        "date": "2026-06-30",
         "transactions": [
             {
                 "type": "gelir",
                 "category": "bakiye",
                 "title": "bakiye",
-                "amount": 1000000
+                "amount": 150000
             },
             {
                 "type": "gider",
-                "category": "market",
-                "title": "Sebze Meyve Market Alışverişi",
-                "amount": 2500
+                "category": "alisveris",
+                "title": "trendyol",
+                "amount": 467,46
+            }
+        ]
+    },
+    {
+        "date": "2026-07-02",
+        "transactions": [
+            {
+                "type": "gider",
+                "category": "alisveris",
+                "title": "trendyol",
+                "amount": 313,75
+            },
+            {
+                "type": "gider",
+                "category": "alisveris",
+                "title": "lcw",
+                "amount": 899,99
+            },
+            {
+                "type": "gider",
+                "category": "yemek",
+                "title": "mado",
+                "amount": 150
             }
         ]
     },
@@ -32,9 +92,33 @@
         "transactions": [
             {
                 "type": "gider",
-                "category": "market",
-                "title": "Gofret",
-                "amount": 20
+                "category": "alisveris",
+                "title": "decathlon",
+                "amount": 565,30
+            },
+             {
+                "type": "gider",
+                "category": "saglik",
+                "title": "eczane",
+                "amount": 251,53
+            },
+             {
+                "type": "gider",
+                "category": "alisveris",
+                "title": "trendyol",
+                "amount": 379,05
+            },
+            {
+                "type": "gider",
+                "category": "alisveris",
+                "title": "lcw",
+                "amount": 1779,97
+            },
+             {
+                "type": "gider",
+                "category": "alisveris",
+                "title": "mrdiy",
+                "amount": 312
             }
         ]
     },
@@ -45,12 +129,6 @@
                 "type": "gider",
                 "category": "alisveris",
                 "title": "bisiklet 1",
-                "amount": 16123.87
-            },
-            {
-                "type": "gider",
-                "category": "alisveris",
-                "title": "bisiklet 2",
                 "amount": 16123.87
             }
         ]
