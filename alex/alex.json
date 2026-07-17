@@ -14,6 +14,18 @@
                 "title": "trendyol son taksit",
                 "amount": 708.34
             },
+             {
+                "type": "gider",
+                "category": "taksit",
+                "title": "tatil 4.taksit",
+                "amount": 6500
+            },
+             {
+                "type": "gider",
+                "category": "taksit",
+                "title": "tatil son taksit",
+                "amount": 19.666
+            },
             {
                 "type": "gider",
                 "category": "taksit",
