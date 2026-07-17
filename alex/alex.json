@@ -24,7 +24,7 @@
                 "type": "gider",
                 "category": "taksit",
                 "title": "tatil son taksit",
-                "amount": 19.666
+                "amount": 19666
             },
             {
                 "type": "gider",
@@ -48,19 +48,19 @@
                 "type": "gider",
                 "category": "yardim",
                 "title": "annemler",
-                "amount": 35.000
+                "amount": 35000
             },
             {
                 "type": "gider",
                 "category": "saglik",
                 "title": "kedi",
-                "amount": 15.000
+                "amount": 15000
             },
              {
                 "type": "gider",
                 "category": "borc",
                 "title": "kart ödemesi",
-                "amount": 63.460
+                "amount": 63460
             },
              {
                 "type": "gider",
