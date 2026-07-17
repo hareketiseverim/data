@@ -97,18 +97,12 @@
                 "category": "alisveris",
                 "title": "trendyol",
                 "amount": 967.41
-            }
-            
-        ]
-    },
-    {
-        "date": "2026-06-30",
-        "transactions": [
-            {
+            },
+             {
                 "type": "gelir",
                 "category": "bakiye",
                 "title": "bakiye",
-                "amount": 150000
+                "amount": 145000
             },
             {
                 "type": "gider",
@@ -116,6 +110,7 @@
                 "title": "trendyol",
                 "amount": 467.46
             }
+            
         ]
     },
     {
