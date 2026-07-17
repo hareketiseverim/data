@@ -10,6 +10,24 @@
             },
              {
                 "type": "gider",
+                "category": "yardım",
+                "title": "annemler",
+                "amount": 35.000
+            },
+            {
+                "type": "gider",
+                "category": "saglik",
+                "title": "kedi",
+                "amount": 15.000
+            },
+             {
+                "type": "gider",
+                "category": "borc",
+                "title": "kart ödemesi",
+                "amount": 63.460
+            },
+             {
+                "type": "gider",
                 "category": "alisveris",
                 "title": "trendyol",
                 "amount": 75
