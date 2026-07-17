@@ -123,13 +123,82 @@
         ]
     },
     {
+        "date": "2026-07-04",
+        "transactions": [
+            {
+                "type": "gider",
+                "category": "alisveris",
+                "title": "trendyol",
+                "amount": 209.89
+            },
+             {
+                "type": "gider",
+                "category": "arac",
+                "title": "hgs",
+                "amount": 1520
+            },
+             {
+                "type": "gider",
+                "category": "alisveris",
+                "title": "trendyol",
+                "amount": 353.98
+            }    
+        ]
+    },
+        {
+        "date": "2026-07-05",
+        "transactions": [
+            {
+                "type": "gider",
+                "category": "alisveris",
+                "title": "trendyol",
+                "amount": 208.95
+            },
+              {
+                "type": "gider",
+                "category": "market",
+                "title": "migros",
+                "amount": 453.89
+            }
+        ]
+    },
+    {
+        "date": "2026-07-06",
+        "transactions": [
+            {
+                "type": "gider",
+                "category": "alisveris",
+                "title": "bisiklet",
+                "amount": 2683.89
+            },
+             {
+                "type": "gider",
+                "category": "saglik",
+                "title": "eczane",
+                "amount": 280
+            },
+             {
+                "type": "gider",
+                "category": "alisveris",
+                "title": "tedi",
+                "amount": 989.93
+            }
+        ]
+    },
+    {
         "date": "2026-07-09",
         "transactions": [
             {
                 "type": "gider",
                 "category": "alisveris",
-                "title": "bisiklet 1",
-                "amount": 16123.87
+                "title": "amazon",
+                "amount": 1280
+            },
+             {
+                "type": "gider",
+                "category": "alisveris",
+                "title": "trendyol",
+                "amount": 679.80
             }
         ]
     }
