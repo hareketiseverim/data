@@ -295,6 +295,59 @@
            "diastolic": 6.7,
            "pulse": 82
        }
+   },
+    {
+       "date": "2026-07-12",
+       "weight": 61.4 ,
+       "bloodPressure": {
+           "systolic": 9.3,
+           "diastolic": 7.6,
+           "pulse": 81
+       }
+   },
+    {
+       "date": "2026-07-13",
+       "weight": 61.6 ,
+       "bloodPressure": {
+           "systolic": 12.9,
+           "diastolic": 8.7,
+           "pulse": 104
+       }
+   },
+    {
+       "date": "2026-07-14",
+       "weight": 60.9 ,
+       "bloodPressure": {
+           "systolic": 0.0,
+           "diastolic": 0.0,
+           "pulse": 0
+       }
+   },
+   {
+       "date": "2026-07-15",
+       "weight": 60.8 ,
+       "bloodPressure": {
+           "systolic": 10.0,
+           "diastolic": 7.5,
+           "pulse": 85
+       }
+   },
+   {
+       "date": "2026-07-16",
+       "weight": 60.6 ,
+       "bloodPressure": {
+           "systolic": 10.4,
+           "diastolic": 7.4,
+           "pulse": 88
+       }
+   },
+    {
+       "date": "2026-07-17",
+       "weight": 60.7 ,
+       "bloodPressure": {
+           "systolic": 11.0,
+           "diastolic": 7.5,
+           "pulse": 90
+       }
    }
-   
 ]
