@@ -52,7 +52,7 @@
             },
             {
                 "type": "gider",
-                "category": "saglik",
+                "category": "yardim",
                 "title": "kedi",
                 "amount": 15000
             },
@@ -102,7 +102,7 @@
                 "type": "gelir",
                 "category": "bakiye",
                 "title": "bakiye",
-                "amount": 145000
+                "amount": 145001
             },
             {
                 "type": "gider",
