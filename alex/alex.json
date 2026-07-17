@@ -10,6 +10,30 @@
             },
              {
                 "type": "gider",
+                "category": "taksit",
+                "title": "trendyol son taksit",
+                "amount": 708.34
+            },
+            {
+                "type": "gider",
+                "category": "taksit",
+                "title": "trendyol son taksit",
+                "amount": 1566.60
+            },
+             {
+                "type": "gider",
+                "category": "taksit",
+                "title": "hava temizleyici son taksit",
+                "amount": 6900
+            },
+             {
+                "type": "gider",
+                "category": "taksit",
+                "title": "trendyol son taksit",
+                "amount": 2227.50
+            },
+             {
+                "type": "gider",
                 "category": "yardım",
                 "title": "annemler",
                 "amount": 35.000
@@ -110,8 +134,8 @@
         "transactions": [
             {
                 "type": "gider",
-                "category": "alisveris",
-                "title": "decathlon",
+                "category": "taksit",
+                "title": "decathlon ilk taksit",
                 "amount": 565.30
             },
              {
@@ -185,8 +209,8 @@
         "transactions": [
             {
                 "type": "gider",
-                "category": "alisveris",
-                "title": "bisiklet",
+                "category": "taksit",
+                "title": "bisiklet ilk taksit",
                 "amount": 2683.89
             },
              {
@@ -242,14 +266,14 @@
         "transactions": [
             {
                 "type": "gider",
-                "category": "arac",
-                "title": "clio zorunlu trafik",
+                "category": "taksit",
+                "title": "clio zorunlu trafik ilk taksit",
                 "amount": 2818.63
             },
              {
                 "type": "gider",
-                "category": "arac",
-                "title": "clio sigorta",
+                "category": "taksit",
+                "title": "clio sigorta ilk taksit",
                 "amount": 1430.06
             },
              {
@@ -335,8 +359,8 @@
         "transactions": [
             {
                 "type": "gider",
-                "category": "arac",
-                "title": "skoda zorunlu trafik",
+                "category": "taksit",
+                "title": "skoda zorunlu trafik ilk taksit",
                 "amount": 2583.56
             }
         ]
@@ -346,8 +370,8 @@
         "transactions": [
             {
                 "type": "gider",
-                "category": "alisveris",
-                "title": "amazon",
+                "category": "taksit",
+                "title": "amazon ilk taksit",
                 "amount": 930.68
             },
              {
