@@ -1,1 +1,571 @@
-
+[
+    {
+        "id": "01",
+        "name": "Adana",
+        "visited": false,
+        "date": "",
+        "note": []
+    },
+    {
+        "id": "02",
+        "name": "Adıyaman",
+        "visited": false,
+        "date": "",
+        "note": []
+    },
+    {
+        "id": "03",
+        "name": "Afyonkarahisar",
+        "visited": false,
+        "date": "",
+        "note": []
+    },
+    {
+        "id": "04",
+        "name": "Ağrı",
+        "visited": false,
+        "date": "",
+        "note": []
+    },
+    {
+        "id": "05",
+        "name": "Amasya",
+        "visited": false,
+        "date": "",
+        "note": []
+    },
+    {
+        "id": "06",
+        "name": "Ankara",
+        "visited": false,
+        "date": "",
+        "note": []
+    },
+    {
+        "id": "07",
+        "name": "Antalya",
+        "visited": false,
+        "date": "",
+        "note": []
+    },
+    {
+        "id": "08",
+        "name": "Artvin",
+        "visited": false,
+        "date": "",
+        "note": []
+    },
+    {
+        "id": "09",
+        "name": "Aydın",
+        "visited": false,
+        "date": "",
+        "note": []
+    },
+    {
+        "id": "10",
+        "name": "Balıkesir",
+        "visited": false,
+        "date": "",
+        "note": []
+    },
+    {
+        "id": "11",
+        "name": "Bilecik",
+        "visited": false,
+        "date": "",
+        "note": []
+    },
+    {
+        "id": "12",
+        "name": "Bingöl",
+        "visited": false,
+        "date": "",
+        "note": []
+    },
+    {
+        "id": "13",
+        "name": "Bitlis",
+        "visited": false,
+        "date": "",
+        "note": []
+    },
+    {
+        "id": "14",
+        "name": "Bolu",
+        "visited": false,
+        "date": "",
+        "note": []
+    },
+    {
+        "id": "15",
+        "name": "Burdur",
+        "visited": false,
+        "date": "",
+        "note": []
+    },
+    {
+        "id": "16",
+        "name": "Bursa",
+        "visited": false,
+        "date": "",
+        "note": []
+    },
+    {
+        "id": "17",
+        "name": "Çanakkale",
+        "visited": false,
+        "date": "",
+        "note": []
+    },
+    {
+        "id": "18",
+        "name": "Çankırı",
+        "visited": false,
+        "date": "",
+        "note": []
+    },
+    {
+        "id": "19",
+        "name": "Çorum",
+        "visited": false,
+        "date": "",
+        "note": []
+    },
+    {
+        "id": "20",
+        "name": "Denizli",
+        "visited": false,
+        "date": "",
+        "note": []
+    },
+    {
+        "id": "21",
+        "name": "Diyarbakır",
+        "visited": false,
+        "date": "",
+        "note": []
+    },
+    {
+        "id": "22",
+        "name": "Edirne",
+        "visited": false,
+        "date": "",
+        "note": []
+    },
+    {
+        "id": "23",
+        "name": "Elazığ",
+        "visited": false,
+        "date": "",
+        "note": []
+    },
+    {
+        "id": "24",
+        "name": "Erzincan",
+        "visited": false,
+        "date": "",
+        "note": []
+    },
+    {
+        "id": "25",
+        "name": "Erzurum",
+        "visited": false,
+        "date": "",
+        "note": []
+    },
+    {
+        "id": "26",
+        "name": "Eskişehir",
+        "visited": false,
+        "date": "",
+        "note": []
+    },
+    {
+        "id": "27",
+        "name": "Gaziantep",
+        "visited": false,
+        "date": "",
+        "note": []
+    },
+    {
+        "id": "28",
+        "name": "Giresun",
+        "visited": false,
+        "date": "",
+        "note": []
+    },
+    {
+        "id": "29",
+        "name": "Gümüşhane",
+        "visited": false,
+        "date": "",
+        "note": []
+    },
+    {
+        "id": "30",
+        "name": "Hakkari",
+        "visited": false,
+        "date": "",
+        "note": []
+    },
+    {
+        "id": "31",
+        "name": "Hatay",
+        "visited": false,
+        "date": "",
+        "note": []
+    },
+    {
+        "id": "32",
+        "name": "Isparta",
+        "visited": false,
+        "date": "",
+        "note": []
+    },
+    {
+        "id": "33",
+        "name": "Mersin",
+        "visited": false,
+        "date": "",
+        "note": []
+    },
+    {
+        "id": "34",
+        "name": "İstanbul",
+        "visited": false,
+        "date": "",
+        "note": [
+            "burada yaşıyorum"
+        ]
+    },
+    {
+        "id": "35",
+        "name": "İzmir",
+        "visited": false,
+        "date": "",
+        "note": []
+    },
+    {
+        "id": "36",
+        "name": "Kars",
+        "visited": false,
+        "date": "",
+        "note": []
+    },
+    {
+        "id": "37",
+        "name": "Kastamonu",
+        "visited": false,
+        "date": "",
+        "note": []
+    },
+    {
+        "id": "38",
+        "name": "Kayseri",
+        "visited": false,
+        "date": "",
+        "note": []
+    },
+    {
+        "id": "39",
+        "name": "Kırklareli",
+        "visited": false,
+        "date": "",
+        "note": []
+    },
+    {
+        "id": "40",
+        "name": "Kırşehir",
+        "visited": false,
+        "date": "",
+        "note": []
+    },
+    {
+        "id": "41",
+        "name": "Kocaeli",
+        "visited": false,
+        "date": "",
+        "note": []
+    },
+    {
+        "id": "42",
+        "name": "Konya",
+        "visited": false,
+        "date": "",
+        "note": []
+    },
+    {
+        "id": "43",
+        "name": "Kütahya",
+        "visited": false,
+        "date": "",
+        "note": []
+    },
+    {
+        "id": "44",
+        "name": "Malatya",
+        "visited": false,
+        "date": "",
+        "note": []
+    },
+    {
+        "id": "45",
+        "name": "Manisa",
+        "visited": false,
+        "date": "",
+        "note": []
+    },
+    {
+        "id": "46",
+        "name": "Kahramanmaraş",
+        "visited": false,
+        "date": "",
+        "note": []
+    },
+    {
+        "id": "47",
+        "name": "Mardin",
+        "visited": false,
+        "date": "",
+        "note": []
+    },
+    {
+        "id": "48",
+        "name": "Muğla",
+        "visited": false,
+        "date": "",
+        "note": []
+    },
+    {
+        "id": "49",
+        "name": "Muş",
+        "visited": false,
+        "date": "",
+        "note": []
+    },
+    {
+        "id": "50",
+        "name": "Nevşehir",
+        "visited": false,
+        "date": "",
+        "note": []
+    },
+    {
+        "id": "51",
+        "name": "Niğde",
+        "visited": false,
+        "date": "",
+        "note": []
+    },
+    {
+        "id": "52",
+        "name": "Ordu",
+        "visited": false,
+        "date": "",
+        "note": []
+    },
+    {
+        "id": "53",
+        "name": "Rize",
+        "visited": false,
+        "date": "",
+        "note": []
+    },
+    {
+        "id": "54",
+        "name": "Sakarya",
+        "visited": false,
+        "date": "",
+        "note": []
+    },
+    {
+        "id": "55",
+        "name": "Samsun",
+        "visited": false,
+        "date": "",
+        "note": []
+    },
+    {
+        "id": "56",
+        "name": "Siirt",
+        "visited": false,
+        "date": "",
+        "note": []
+    },
+    {
+        "id": "57",
+        "name": "Sinop",
+        "visited": false,
+        "date": "",
+        "note": []
+    },
+    {
+        "id": "58",
+        "name": "Sivas",
+        "visited": false,
+        "date": "",
+        "note": []
+    },
+    {
+        "id": "59",
+        "name": "Tekirdağ",
+        "visited": false,
+        "date": "",
+        "note": []
+    },
+    {
+        "id": "60",
+        "name": "Tokat",
+        "visited": false,
+        "date": "",
+        "note": []
+    },
+    {
+        "id": "61",
+        "name": "Trabzon",
+        "visited": false,
+        "date": "",
+        "note": []
+    },
+    {
+        "id": "62",
+        "name": "Tunceli",
+        "visited": false,
+        "date": "",
+        "note": []
+    },
+    {
+        "id": "63",
+        "name": "Şanlıurfa",
+        "visited": false,
+        "date": "",
+        "note": []
+    },
+    {
+        "id": "64",
+        "name": "Uşak",
+        "visited": false,
+        "date": "",
+        "note": []
+    },
+    {
+        "id": "65",
+        "name": "Van",
+        "visited": false,
+        "date": "",
+        "note": []
+    },
+    {
+        "id": "66",
+        "name": "Yozgat",
+        "visited": false,
+        "date": "",
+        "note": []
+    },
+    {
+        "id": "67",
+        "name": "Zonguldak",
+        "visited": false,
+        "date": "",
+        "note": []
+    },
+    {
+        "id": "68",
+        "name": "Aksaray",
+        "visited": false,
+        "date": "",
+        "note": []
+    },
+    {
+        "id": "69",
+        "name": "Bayburt",
+        "visited": false,
+        "date": "",
+        "note": []
+    },
+    {
+        "id": "70",
+        "name": "Karaman",
+        "visited": false,
+        "date": "",
+        "note": []
+    },
+    {
+        "id": "71",
+        "name": "Kırıkkale",
+        "visited": false,
+        "date": "",
+        "note": []
+    },
+    {
+        "id": "72",
+        "name": "Batman",
+        "visited": false,
+        "date": "",
+        "note": []
+    },
+    {
+        "id": "73",
+        "name": "Şırnak",
+        "visited": false,
+        "date": "",
+        "note": []
+    },
+    {
+        "id": "74",
+        "name": "Bartın",
+        "visited": false,
+        "date": "",
+        "note": []
+    },
+    {
+        "id": "75",
+        "name": "Ardahan",
+        "visited": false,
+        "date": "",
+        "note": []
+    },
+    {
+        "id": "76",
+        "name": "Iğdır",
+        "visited": false,
+        "date": "",
+        "note": []
+    },
+    {
+        "id": "77",
+        "name": "Yalova",
+        "visited": false,
+        "date": "",
+        "note": []
+    },
+    {
+        "id": "78",
+        "name": "Karabük",
+        "visited": false,
+        "date": "",
+        "note": []
+    },
+    {
+        "id": "79",
+        "name": "Kilis",
+        "visited": false,
+        "date": "",
+        "note": []
+    },
+    {
+        "id": "80",
+        "name": "Osmaniye",
+        "visited": false,
+        "date": "",
+        "note": []
+    },
+    {
+        "id": "81",
+        "name": "Düzce",
+        "visited": false,
+        "date": "",
+        "note": []
+    }
+]
