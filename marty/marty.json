@@ -233,7 +233,7 @@
     {
         "id": "34",
         "name": "İstanbul",
-        "visited": false,
+        "visited": true,
         "date": "",
         "note": [
             "burada yaşıyorum"
