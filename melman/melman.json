@@ -404,5 +404,14 @@
            "diastolic": 8.1,
            "pulse": 97
        }
+   },
+       {
+       "date": "2026-07-24",
+       "weight": 59.8 ,
+       "bloodPressure": {
+           "systolic": 10.0,
+           "diastolic": 7.0,
+           "pulse": 84
+       }
    }
 ]
