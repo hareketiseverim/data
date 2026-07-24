@@ -370,8 +370,11 @@
         "id": "53",
         "name": "Rize",
         "visited": false,
-        "date": "",
-        "note": []
+        "date": "01.01.2025",
+        "note": [
+            "tur ile gezmeye gittim. çayını içtim güzeldi.",
+            "güncelleme: 01.02.2025 yine gittim beğendiğim için. bu sefer sütlaç yedim."
+        ]
     },
     {
         "id": "54",
