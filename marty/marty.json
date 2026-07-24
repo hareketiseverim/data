@@ -234,8 +234,9 @@
         "id": "34",
         "name": "İstanbul",
         "visited": true,
-        "date": "",
+        "date": "06.01.1996",
         "note": [
+            "burada doğdum",
             "burada yaşıyorum"
         ]
     },
