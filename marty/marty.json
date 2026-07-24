@@ -51,7 +51,7 @@
     {
         "id": "08",
         "name": "Artvin",
-        "visited": false,
+        "visited": true,
         "date": "",
         "note": []
     },
@@ -65,7 +65,7 @@
     {
         "id": "10",
         "name": "Balıkesir",
-        "visited": false,
+        "visited": true,
         "date": "",
         "note": []
     },
@@ -142,7 +142,7 @@
     {
         "id": "21",
         "name": "Diyarbakır",
-        "visited": false,
+        "visited": true,
         "date": "",
         "note": []
     },
@@ -184,7 +184,7 @@
     {
         "id": "27",
         "name": "Gaziantep",
-        "visited": false,
+        "visited": true,
         "date": "",
         "note": []
     },
@@ -243,7 +243,7 @@
     {
         "id": "35",
         "name": "İzmir",
-        "visited": false,
+        "visited": true,
         "date": "",
         "note": []
     },
@@ -320,21 +320,21 @@
     {
         "id": "46",
         "name": "Kahramanmaraş",
-        "visited": false,
+        "visited": true,
         "date": "",
         "note": []
     },
     {
         "id": "47",
         "name": "Mardin",
-        "visited": false,
+        "visited": true,
         "date": "",
         "note": []
     },
     {
         "id": "48",
         "name": "Muğla",
-        "visited": false,
+        "visited": true,
         "date": "",
         "note": []
     },
@@ -428,7 +428,7 @@
     {
         "id": "61",
         "name": "Trabzon",
-        "visited": false,
+        "visited": true,
         "date": "",
         "note": []
     },
@@ -442,7 +442,7 @@
     {
         "id": "63",
         "name": "Şanlıurfa",
-        "visited": false,
+        "visited": true,
         "date": "",
         "note": []
     },
