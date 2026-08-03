@@ -491,7 +491,7 @@
     },
     {
         "date": "2026-07-14",
-        "weight": 60.9,
+        "weight": 61.0,
         "bloodPressure": {
             "systolic": 0.0,
             "diastolic": 0.0,
@@ -722,9 +722,9 @@
             "pulse": 72
         },
         "bodyComposition": {
-            "skeletalMuscleKg": 24.7,
-            "bodyFatPercentage": 26.9,
-            "bodyWaterPercentage": 57.1
+            "skeletalMuscleKg": 24.2,
+            "bodyFatPercentage": 27.0,
+            "bodyWaterPercentage": 56.3
         }
     },
     {
@@ -736,9 +736,9 @@
             "pulse": 77
         },
         "bodyComposition": {
-            "skeletalMuscleKg": 24.2,
-            "bodyFatPercentage": 27.0,
-            "bodyWaterPercentage": 56.3
+            "skeletalMuscleKg": 24.7,
+            "bodyFatPercentage": 26.9,
+            "bodyWaterPercentage": 57.1
         }
     },
     {
@@ -767,6 +767,20 @@
             "skeletalMuscleKg": 24.3,
             "bodyFatPercentage": 27.1,
             "bodyWaterPercentage": 56.2
+        }
+    },
+    {
+        "date": "2026-08-03",
+        "weight": 60.7,
+        "bloodPressure": {
+            "systolic": 10.0,
+            "diastolic": 7.4,
+            "pulse": 94
+        },
+        "bodyComposition": {
+            "skeletalMuscleKg": 00.0,
+            "bodyFatPercentage": 00.0,
+            "bodyWaterPercentage": 00.0
         }
     }
 ]
