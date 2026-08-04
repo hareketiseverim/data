@@ -780,7 +780,21 @@
         "bodyComposition": {
             "skeletalMuscleKg": 24.3,
             "bodyFatPercentage": 27.1,
-            "bodyWaterPercentage": 56.2
+            "bodyWaterPercentage": 56.3
+        }
+    },
+    {
+        "date": "2026-08-04",
+        "weight": 60.0,
+        "bloodPressure": {
+            "systolic": 11.5,
+            "diastolic": 7.0,
+            "pulse": 90
+        },
+        "bodyComposition": {
+            "skeletalMuscleKg": 24.5,
+            "bodyFatPercentage": 26.6,
+            "bodyWaterPercentage": 57.2
         }
     }
 ]
