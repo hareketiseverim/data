@@ -3,9 +3,9 @@
         "date": "2026-06-09",
         "weight": 64.9,
         "bloodPressure": {
-            "systolic": 0,
-            "diastolic": 0,
-            "pulse": 0
+            "systolic": 12.5,
+            "diastolic": 7.8,
+            "pulse": 73
         },
         "bodyComposition": {
             "skeletalMuscleKg": 25.5,
@@ -17,9 +17,9 @@
         "date": "2026-06-10",
         "weight": 63.2,
         "bloodPressure": {
-            "systolic": 0,
-            "diastolic": 0,
-            "pulse": 0
+            "systolic": 12.5,
+            "diastolic": 7.8,
+            "pulse": 73
         },
         "bodyComposition": {
             "skeletalMuscleKg": 26.1,
@@ -31,9 +31,9 @@
         "date": "2026-06-11",
         "weight": 63.5,
         "bloodPressure": {
-            "systolic": 0,
-            "diastolic": 0,
-            "pulse": 0
+            "systolic": 12.5,
+            "diastolic": 7.8,
+            "pulse": 73
         },
         "bodyComposition": {
             "skeletalMuscleKg": 25.3,
@@ -199,14 +199,14 @@
         "date": "2026-06-23",
         "weight": 62.2,
         "bloodPressure": {
-            "systolic": 0,
-            "diastolic": 0,
-            "pulse": 0
+            "systolic": 10.7,
+            "diastolic": 8.1,
+            "pulse": 87
         },
         "bodyComposition": {
-            "skeletalMuscleKg": 26.1,
-            "bodyFatPercentage": 23.6,
-            "bodyWaterPercentage": 34.9
+            "skeletalMuscleKg": 24.3,
+            "bodyFatPercentage": 28.3,
+            "bodyWaterPercentage": 55.2
         }
     },
     {
