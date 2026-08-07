@@ -824,5 +824,19 @@
              "bodyFatPercentage": 26.8,
              "bodyWaterPercentage": 56.8
          }
+     },
+     {
+         "date": "2026-08-07",
+         "weight": 59.9,
+         "bloodPressure": {
+             "systolic": 11.1,
+             "diastolic": 7.3,
+             "pulse": 71
+         },
+         "bodyComposition": {
+             "skeletalMuscleKg": 24.3,
+             "bodyFatPercentage": 26.6,
+             "bodyWaterPercentage": 56.9
+         }
      }
 ]
