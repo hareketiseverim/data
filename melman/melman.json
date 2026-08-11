@@ -862,7 +862,7 @@
              "pulse": 93
          },
          "bodyComposition": {
-             "skeletalMuscleKg": 24.5
+             "skeletalMuscleKg": 24.5,
              "bodyFatPercentage": 27.2,
              "bodyWaterPercentage": 56.5
          }
