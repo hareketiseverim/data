@@ -1179,7 +1179,7 @@
          "date": "2026-09.01",
          "weight": 60.2,
          "bloodPressure": {
-             "systolic": 11.1
+             "systolic": 11.1,
              "diastolic": 8.0,
              "pulse": 87
          },
